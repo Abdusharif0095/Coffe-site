@@ -10,7 +10,4 @@ In order to test our site you should:
 > <p>Run file "index.html".</p>
 
 ## Authors
-<p><a scr="https://github.com/user/repo/blob/branch/other_file.md">Olshanskiy Y.V.<a></p>
-<p>Yusupova M.A. https://github.com/user/repo/blob/branch/other_file.md</p>
-<p>Abdurafiqi A. https://github.com/user/repo/blob/branch/other_file.md</p>
-http://github.com – automatic! [GitHub](http://github.com) 
+<p> <a href="https://github.com"> </a> </p>
