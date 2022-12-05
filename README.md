@@ -11,5 +11,5 @@ In order to test our site you should:
 
 ## Authors
 <p> <a href="https://github.com/LILPuck169"> Olshanskiy Y.V. </a> </p>
-<p> <a href="https://github.com/LILPuck169"> Yusupova M.A. </a> </p>
-<p> <a href="https://github.com/LILPuck169"> Abdurafiqi A. </a> </p>
+<p> <a href="https://github.com/Mahina07"> Yusupova M.A. </a> </p>
+<p> <a href="https://github.com/Abdusharif0095"> Abdurafiqi A. </a> </p>
