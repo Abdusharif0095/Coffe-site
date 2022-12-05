@@ -6,7 +6,7 @@ In this web-site you can select some ingredients, after which you will find out 
 ## Test
 In order to test our site you should:
 > Download all files in this repositore.
-> Run index.html.
+> Run file index.html.
 
 ## Authors
 Olshanskiy Y.V.
